@@ -1,0 +1,29 @@
+.item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.status {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.avatar {
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+  margin-right: 10px;
+}
+
+.name {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0;
+}
