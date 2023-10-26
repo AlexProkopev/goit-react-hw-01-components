@@ -5,10 +5,11 @@ import Profile from "./Profile/Profile";
 import Statistics from "./Statistics/Statistics";
 import { TransactionHistory } from "./TransactionHistory/TransationHistory";
 
-const jsonData = require('../data/user.json');
-const jsonStats = require('../data/data.json');
-const jsonFriends = require('../data/friends.json');
-const jsonTransation = require('../data/transactions.json');
+import jsonData from "../data/user.json"
+import jsonStats from "../data/data.json"
+import jsonFriends from "../data/friends.json"
+import jsonTransation from "../data/transactions.json"
+
 
 
 
